@@ -1,0 +1,485 @@
+# Turnabout Werewolves
+
+Game Master: cobaltblue
+
+Tanggal Buka: 08 Oktober 2010
+
+Link: http://www.ninjasaga.com/forum/viewtopic.php?f=20&t=39455
+
+## Prolog
+
+"*We might be the werewolves ..but it doesn't necessarily mean we are always the bad guys. Not this time.*"
+
+```{r echo=FALSE, out.width='50%',fig.align='center'}
+include_graphics('Gambar/01-cover.jpg')
+```
+
+Dunia telah mencapai awal abad 21.
+
+Jujur saja, kami ragu jika masyarakat kota masih berpikir bahwa kami masih ada di sini..
+Sengaja hidup dalam keterasingan walau sebetulnya jarak antara hutan ini tak terlampau jauh dari peradaban..
+Tapi, hei, buat apa kami mengganggu mereka?
+
+Kalau boleh jujur sekali lagi, kami sudah lelah. Dan bosan.
+Lelah dan bosan menyantap daging mereka.
+
+*Oh, tambahkan lagi satu kata, jijik.*
+
+Mereka hanyalah onggokan daging yang kotor yang berjalan, walau bukan dalam arti harafiah.. karena kami pikir, apa yang mereka sebetulnya lakukan itu jauh lebih licik dan hina daripada kami.
+
+Meraup untung dan mencuri setiap keping dan lembar apa yang bukan milik mereka. Tertawa bahagia atas kefanaan harta benda yang mereka miliki saat ini. Tak jarang pula mereka mencekoki para penduduk desa yang kurang berpendidikan dengan cerita bohong tentang kami--bagaimana kami mencoba hidup di tengah mereka dengan bermuka-dua pada siang hari, dan lantas menyantap mereka hidup-hidup pada malam harinya.
+
+Sekadar membuat orang-orang untuk takut pada apa yang nyata terlihat, namun tidak awas pada apa yang tak nampak di luarnya.
+
+Yeah.
+
+Oleh karena itulah kami sudah berhenti membunuhi manusia sejak berpuluh tahun yang lalu. Kami memutuskan untuk tinggal jauh dari peradaban, mencoba untuk membiarkan mereka hidup dengan apa yang mereka sebut sebagai "akan lebih damai jika tidak ada makhluk seperti kalian di sini".
+Oke, biar kami lihat dunia seperti apa yang kalian, manusia, ingin wujudkan. Dunia yang pada kenyataannya begitu kotor, yang bahkan kami pun muak hanya sekadar untuk membayangkannya.
+
+..Tapi lucunya, walaupun kami telah menghentikan perlawanan kami terhadap manusia, kadang kami masih mendengar para penduduk kota membisikkan kabar berita, bahwa selalu ada korban manusia serigala setiap bulan purnama, penuh dengan bekas luka cabikan dan sayatan benda tajam--padahal setahu kami, tidak ada satu pun dari kami yang melakukan hal tersebut.
+Dan anehnya lagi, setiap ada satu korban manusia jatuh pada bulan purnama, satu dari kami pun akan ditemukan mati di dekat hutan dengan luka tembak di bagian dada.
+
+Segala rangkaian peristiwa ini seolah menantang kami dan mengatakan, "*Kenapa berhenti membunuh manusia, eh? Dasar pengecut. Bukankah ini adalah yang dulu biasa kalian lakukan?*"
+
+Sejak saat itu jumlah kami semakin sedikit pada setiap bulan purnama, dan kini kami tak lagi bisa tinggal diam hanya menunggu ajal misterius itu untuk menjemput kami. Kami memutuskan agar salah seorang dari kami, **cobaltblue**, untuk menginvestigasi hal ini lebih lanjut.
+**cobaltblue** menyusup ke tengah kota dan menyamar sebagai salah satu karyawan di suatu perusahaan yang cukup terkenal dengan perlawanannya pada kaum kami di masa lampau untuk mencari informasi. Dan untunglah, usaha tersebut tidak sia-sia. Kami ingat dulu dulu pernah ada satu dari kelompok kami yang hilang tanpa jejak. Seorang manusia serigala yang masih terhitung muda, dan ternyata kawan kecil kami inilah biang keladi dari segala peristiwa ini. Dia telah beralih menjadi agen rahasia pembasmi manusia serigala dan bekerja sebagai pengawal pribadi direktur perusahaan Gninnuc.
+
+Dia yang dulu pernah menjadi bagian dari kami. Dia yang jelas mengetahui identitas kami.
+
+Dia yang berkhianat dua kali.
+Pertama, ketika dia masih bagian dari kami dan *berkhianat* pada manusia. Kedua, ketika dia beralih haluan ingin menghabisi kami. Berkhianat pada kami untuk pihak kotor perusahaan Gninnuc, bah.
+Perusahaan yang mengelola jasa asuransi dan layanan masyarakat, katanya.. Padahal kami tahu, perusahaan itu sebetulnya memproduksi dan menyeludupkan narkotika.
+
+Satu lagi sampah busuk dan kotor dari pihak manusia. Ah.. ya.
+Mungkin ini kesempatan kami, untuk sekadar *mengabdikan* diri pada prinsip kami yang baru.
+
+Kami akan membunuh pengkhianat licik itu, sekaligus menghabisi direktur konyol beserta dengan para anak buahnya.
+
+Maka kami pun sepakat, ini akan menjadi langkah awal dari sebuah revolusi kami.
+
+Namun ada satu hal kecil yang membuat semua ini menjadi sulit. Direktur ini adalah seorang indigo, yang memiliki indera ke-enam sehingga dia mampu mengetahui identitas kami bahkan ketika kami mencoba menyamar sebagai penduduk kota biasa.
+Dan benar saja, ketika kami baru saja menerima informasi berharga mengenai kawan pengkhianat kami kemarin, mendadak pada pagi harinya, kami telah menemukan **cobaltblue** tewas, lagi-lagi dengan luka tembak; dan beberapa luka sayatan dan gigitan--yang berarti sangat mungkin bahwa pengkhianat kecil ini sempat melakukan serangan ketika dia sedang bertransformasi.
+
+Ini tidak bisa dibiarkan lagi.
+
+Mungkin kami kalah jumlah.
+Tapi mereka akan butuh lebih dari sekadar jumlah untuk melenyapkan kami.
+
+Mungkin kami memang manusia serigala.
+Tapi kalian akan butuh lebih dari sekadar bulu dan taring untuk membuktikan bahwa kami adalah penjahatnya.
+
+*Yah. Setidaknya, untuk saat ini.*
+
+## Peraturan Utama
+
++ Sekurang-kurangnya diperlukan 9 orang untuk memulai game.
+
++ Player yang memperoleh peran-peran khusus nantinya akan diberitahu lewat PM. Player yang tidak memperoleh PM ketika game resmi dimulai berarti bermain sebagai Villager.
+
++ Setiap siang, semua penduduk desa akan berkumpul dan melakukan pengambilan voting untuk memutuskan salah seorang dari mereka yang kemungkinan besar adalah manusia serigala. Orang tsb nantinya akan digantung mati. Dan khusus dalam game yang dihost cobaltblue, jika jumlah player dirasa cukup, akan ada kemungkinan diperbolehkan adanya "pembantaian massal" - yaitu jika ada dua orang yang divoting dengan jumlah suara yang sama banyak (dengan jumlah suara minimal lebih dari satu). Namun pada game kali ini, fitur "pembantaian massal" akan ditiadakan.
+
+    - Contoh: devil joe - 2 suara, lukystar - 2 suara; maka pada update round nanti, kedua player ini akan digantung beramai-ramai.
+
++ Setiap malam, manusia serigala akan berdiskusi untuk menentukan siapa yang akan mereka santap untuk makan malam. Dan khusus dalam game ini, para werewolves diperbolehkan untuk tidak menyantap siapapun jika mereka masih kenyang.
+
+## Peraturan Lain
+
+- Bagi forumer yang ingin turut berpatisipasi, silakan post di thread ini.
+
+- Bagi forumer yang telah mendaftar namun kemudian merasa nantinya tidak bisa ikut main dikarenakan kesibukan RL, silakan membatalkan keikutsertaan dengan posting di thread ini juga.
+
+- Ketika game sudah dimulai, tidak boleh dan tidak bisa ada keikutsertaan player baru kecuali player tsb menggantikan player lain yang tidak aktif.
+
+- Player boleh meminta untuk digantikan oleh forumer lain yang bukan player jika merasa tidak bisa berpartisipasi lagi. Request untuk penggantian ini dilakukan dalam thread dengan sepengetahuan dan sepertujuan GM.
+
+- PM yang tidak sampai akibat penuhnya inbox merupakan tanggung jawab player.
+
+- Setiap voting dan kemampuan khusus yang dilakukan melewati batas deadline tidak akan dihitung.
+
+- Voting harus dilakukan dengan cara berikut: Tulis "VOTE" kemudian nama orang yang kalian pilih dalam ukuran '150' dan dibold. Dan ketika kalian ingin membatalkan vote, dan, mungkin, mengganti vote, tulis "UNVOTE":
+Setiap vote dengan format lain tidak akan dihitung. Dan, **JANGAN MENGEDIT VOTE SETELAH DIPOSTING.**
+
+- Tiap 'kemampuan khusus' yang harus dikirimkan lewat PM harap diberi judul yang jelas, misalnya: "Vigilante Request - TWG Indo".
+
+- Para hantu dan penonton diperbolehkan untuk posting dalam thread. Untuk penonton, harap menggunakan font dengan ukuran 85 dan ditaruh di antara tanda kurung. Untuk hantu, harap menggunakan font lain selain warna hitam.
+
+## Roleplaying
+
+Demi keasyikan dari forum game ini sendiri, bermain-peran seolah-olah kalian memang manusia serigala, Seer, atau peran lainnya sangat disarankan.
+
+## Peran
+
+**Villager** - Karyawan perusahaan: Pemain biasa, tanpa kemampuan khusus. Tugas mereka adalah hanya melakukan vote pada siang hari.
+
+**Masons** - Sekretaris dan Asisten Direktur: Pemain biasa, tanpa kemampuan khusus. Tugas mereka sama seperti Villager, tapi yang berbeda adalah, tiap Mason akan tahu identitas Mason yang lainnya; sehingga bisa dikatakan, Mason bisa bekerja dalam tim.
+
+**Werewolves** - Lone Werewolves: Nantinya juga akan melakukan voting pada siang hari. Kemampuan khusus bagi peran manusia serigala adalah kesempatan untuk membunuh satu orang untuk dibunuh pada malam hari. Para manusia serigala nantinya akan berdiskusi mengenai siapa yang ingin mereka bunuh, kemudian mengirimkan nama calon korban pada GM melalui PM.  Para manusia serigala juga tahu identitas manusia serigala lainnya.
+
+**Seer** - Direktur Gninnuc.Corp: Sama, nantinya juga akan melakukan voting pada siang hari. Kemampuan khusus pada malam hari bagi peran Seer adalah kesempatan untuk meminta GM melalui PM untuk 'melihat' peran dari seorang player.
+
+**Vigilante** - Pengawal Pribadi Direktur: *Peran ini akan dihilangkan dari game sejak round pertama; sebagai gantinya akan ada item - "Silver Riffle". Pada malam hari, seorang Vigilante diperbolehkan untuk membunuh SATU nama saja yang dia curigai sebagai manusia serigala. Namun karena dia hanya punya satu peluru, itu berarti dia hanya punya kesempatan untuk melakukan 'kemampuan khusus'nya sekali saja.
+
+## Item: Silver Riffle
+
+Item khusus ini akan muncul di tengah game sebagai barang peninggalan Vigilante yang telah mati sejak awal game.
+Item ini harus dioper pada player lain tiap kali malam berakhir.
+Dalam Silver Riffle ini hanya ada satu peluru perak sehingga walaupun item ini mungkin akan selalu berpindah tangan, penggunaannya sendiri hanya bisa sekali saja.
+
++ Silver Riffle hanya bisa digunakan pada malam hari.
+
++ Silver Riffle tidak boleh disimpan lebih dari satu hari oleh satu pemain yang sama.
+
++ Silver Riffle baru boleh dipegang oleh orang yang sama setelah lewat dua hari. Jadi jika Silver Riffle dipegang oleh pemain A, item tsb harus dioper kepada minimal dua pemain terlebih dahulu sebelum pemain A bisa memegangnya kembali.
+
++ Perpindahan Silver Riffle akan dilakukan player tanpa perantara GM melalui forum - yang berarti semua player nantinya akan mengetahui siapa pemegang Silver Riffle yang sebelumnya.
+
++ Jika Silver Riffle jatuh ke tangan werewolves, werewolves akan tetap menyimpannya tapi mereka tidak bisa menggunakannya (jadi dua kematian anggota tim villager dalam satu malam tidak akan mungkin terjadi).
+
++ Jika Silver Riffle dipegang oleh anggota tim Villager, maka item juga akan berfungsi sebagai "pelindung" pada malam hari. Jika werewolf kebetulan menyerang seorang pemegang Silver Riffle pada malam harinya, maka peluru perak akan secara otomatis digunakan untuk membunuh sang werewolf - sehingga memungkinkan untuk menghasilkan ending 'Seri' atau 'Draw'.
+
++ Silver Riffle akan musnah begitu menembakkan satu peluru perak.
+
++ Khusus pada kasus anggota tim villager sebagai pemegang Silver Riffle, ketika malam itu dia diterkam, Silver Riffle memang secara otomatis membunuh werewolf sehingga dia selamat pada malam itu, namun akan mati pada esok harinya. Jadi mekanisme perlindungan ini lebih seperti 'menunda kematian'.
+
+**Mekanisme Perpindahan Silver Riffle:**
+
++ Silver Riffle pertama kali akan diberikan oleh GM pada seorang player secara random melalui PM.
+
++ Silver Riffle ini boleh dipindahtangankan setiap kali sesi Siang Hari dimulai. Konfirmasi yang dilakukan setelah deadline tidak akan dihitung.
+
++ Contoh pesan berpindahtangannya Silver Riffle melalui forum:
+
+> Silver Riffle diberikan kepada Mikazuki Gryphin.
+
+
+## Keputusan Menang
+
+Tim Villager menang jika semua manusia serigala berhasil terbunuh.
+
+Tim Werewolves menang jika jumlah dari tim villager *sama dengan* atau *kurang dari* jumlah manusia serigala yang ada.
+
+Situasi *Seri* hanya akan diumumkan secara otomatis apabila peserta yang tersisa pada malam hari adalah seorang werewolf dan seorang anggota dari tim villager yang masih membawa Silver Riffle dengan selongsong peluru perak di dalamnya.
+
+## Pemain
+
+1. ninjaakatsuky
+2. devil joe
+3. lukystar
+4. anezildjian
+5. ankasil
+6. Lelouch_Lamperouge
+7. Mikazuki Gryphin
+8. Kipankubodo
+
+## Game Log
+
+### Game Start! {-}
+
+**Werewolves! Werewolves are everywhere!**
+
+Malam sudah semakin larut, namun tampak seorang pria dengan tubuh tegap besar masih sibuk menekuni berlembar-lembar kertas di meja kerjanya. Berbagai grafik dan tabel yang dibuat dengan tulisan cakar ayam bertebaran di atas lembaran notes-notes tua miliknya. Raut wajahnya terlihat sedikit tegang dan cemas - seakan sedang memikirkan sesuatu yang rumit.
+
+Sesekali dilepasnya kacamatanya, kemudian dia menggosok matanya.
+
+"Tidak biasanya aku mengantuk," gumamnya.
+
+Dia memang sudah terbiasa untuk bekerja pada malam hari karena itu rasa kantuk yang mendadak menyerangnya ini membuatnya sedikit khawatir.
+
+Masih ada suatu pekerjaan yang harus dia lakukan malam ini - sesuatu yang penting dan sudah dia rencanakan sejak jauh-jauh hari, dan dia tidak bisa membiarkan rasa kantuk mengalahkannya!
+
+"Mungkin aku harus minum kopi."
+
+Kemudian dia pun beranjak dari tempat ia duduk - namun belum sempat dia meraih gagang pintu ruang kantor pribadinya, mendadak pintu menjeblak terbuka dan dua sosok yang besar dan berbulu langsung menerkamnya sebelum dia sempat melakukan apa-apa.
+
+" ..a-apa?! Lepaskan AKU! Licik sekali kalian menyerang orang yang sedang ngantuk sepertiku!!" pria itu berusaha memberontak dengan putus asa. Salah satu sosok besar tadi sedang menindihnya dan sepertinya sedang berusaha meremukkan lengan-lengannya.
+
+"DIAM! Kami tahu siapa kau! Tidak perlu menggurui kami - kau bahkan lebih keji dan licik daripada KAMI!"
+
+Mendadak pria itu sadar. Dua sosok itu sebetulnya merupakan target yang seharusnya dia lenyapkan malam ini. Segala firasat buruk dan ketakutan pun langsung melandanya.
+
+"Yeah. Lama tak jumpa, kawan lama..," ujar suara lain yang jauh lebih lirih.
+
+Dan sekilas didengarnya suara tawa - suara yang mungkin merupakan suara terakhir yang bisa didengarnya...
+
+> shaiming, sang Vigilante - pengawal pribadi telah tewas!
+
+> Item Silver Riffle telah ditemukan dan diambil oleh orang lain yang kebetulan pertama kali menemukan mayatnya.
+
+"Oke, anak-anak. Aku perlu mengumumkan suatu hal. Pagi ini aku mendapati pengawal pribadi setiaku telah tewas," sang direktur berkata pada semua anak buahnya.
+
+Desah kaget dan cemas pun langsung terdengar di seluruh penjuru aula kantor yang megah itu.
+
+"Tewas? Apa maksudmu tewas? Dia tidak meninggal secara alami--"
+
+"Ya. Ada bekas luka gigitan dan cakaran di sekujur tubuhnya, atau singkatnya, sepertinya ..dia telah menjadi satu lagi korban serangan manusia serigala. Dan ya, bukan kematian yang alami."
+
+Atmosfir yang sebelumnya sudah tegang pun kini diliputi dengan perasaan ketakutan. Beberapa orang berteriak dengan panik, "Lalu apa yang harus kita lakukan?! Aku tidak pernah menyangka bahwa mereka akan bisa menyusup ke sini!!"
+
+Sang direktur pun hanya tersenyum kecil. Dia paham sekali apa yang sedang terjadi di sini.
+
+"Kita akan melakukan voting. Kita akan mengadakan musyawarah - karena aku mendapat firasat, bahwa manusia serigala ini merupakan salah satu di antara para karyawanku. Dan orang yang nantinya mendapat voting terbanyak..," dia mengambil sebuah pistol dari brankasnya dan memasang pemicunya, "..akan kita habisi di tempat."
+
+"APA? Pak, tidakkah Bapak pikir itu terlalu gila?!"
+
+"Tidak ada cara lain. Dan toh penjahat tidak akan mengaku kan? Aku tidak ingin bisnisku terganggu hanya karena hal ini. Lebih baik kita segera tuntaskan saja, dan lagipula, aku bisa menyewa karyawan yang baru kalau kalian semua mati," sahut direktur tersebut dengan enteng.
+
+"Atau kalian ingin mati semua sekarang juga? Jangan khawatir, aku punya banyak peluru dalam pistol kesayanganku ini," katanya lagi sambil menyeringai.
+
+Mendengar jawaban direktur mereka, para karyawan malang ini pun sadar bahwa mereka tidak mempunyai ada pilihan lain. Sedangkan para manusia serigala yang asli hanya bergumam dalam hati - memikirkan betapa keji direktur ini. Dia bahkan tidak peduli jika semua karyawannya mati hanya demi keselamatannya sendiri.
+
+Manusia.. Kalian memang busuk.
+
+> Ini adalah Siang Hari.
+>
+> Kalian semua akan berkumpul dan melakukan voting untuk satu orang yang paling kalian curigai sebagai manusia serigala.
+>
+> Deadline voting untuk sesi Siang Hari 1 adalah Senin, 18 Oktober 2010, pukul 12.00.
+> Waktu bisa berubah sewaktu-waktu.
+
+### Siang Hari 1 {-}
+
+**Why do you think I am one of them?**
+
+*“The moment I finally talk could be the time when I decide to walk away without leaving you any words..”*
+
+Untuk sesaat, orang-orang mulai mencurigai satu-satunya rekan wanita mereka, Mikazuki Gryphin.
+
+Gaya bicara Gryhin yang seringkali melantur tanpa arah mungkin membuat mereka sedikit was-was karena siapa tahu gadis ini hanya berpura-pura bodoh untuk menutupi identitas dirinya. Namun selang beberapa jam kemudian, entah kenapa kecurigaan massa kini secara perlahan beralih pada seorang pria bujang yang gemar membuat puisi di sela-sela kesibukan kerjanya.
+
+Ya, pria itu bernama anezildijian.
+
+Seorang playboy cap bantal yang tak henti-hentinya merayu setiap wanita yang dia temui – bahkan Gryphin sendiri merupakan salah satu gadis yang pernah digombali oleh anezildjian.
+
+“Dia kira dia cassanova, padahal bajunya bulukan begitu,” gumam Gryphin sengit.
+
+“Astaga. Jangan bilang kalian mencurigaiku hanya karena aku suka nggombal dan bikin puisi,” anezildjian berkata dengan sedikit terkejut. Lebih dari separuh rekan kerjanya kini memandang dengan tatapan tajam ke arah dirinya - seakan-akan mengharapkan dia untuk segera mati sebelum jatuh lagi korban rayuan gombal mulut manisnya.
+
+anezildjian baru saja hendak membela diri lagi ketika akhirnya salah seorang di antara mereka angkat bicara, “Jadi, kita sepakat – bahwa anezildjian adalah penyusup yang telah membunuh pengawal pribadi setiaku?”
+
+Terdengar gumaman setuju dan tidak setuju.
+
+“Ah. Ternyata tak semua sepakat. Tapi kali ini jumlah yang menentukan - maafkan aku, nak,” sang direktur pun mengeluarkan pistolnya dan menodong anezildjian tepat di bagian kepalanya.
+
+Mata anezildjian pun membelalak dalam kengerian yang mendadak menyergap seluruh organ tubuhnya.
+
+“Hah, kalian serius?! Tunggu du--!!”
+
+...letusan pistol. Dan sayup-sayup suara yang takkan pernah terdengar lagi.
+
+> Hasil Vote Siang Hari 1
+>
+> anezildjian 5 vote (Mikazuki Gryphin, ankasil, Kipankubodo, devil joe, lukystar)
+>
+> Mikazuki Gryphin 3 vote (ninjaakatsuky, anezildjian, lelouch)
+
+> anezildjian, sang playboy dan penyair kawakan - atau yang lebih dikenal sebagai **Villager** telah tewas!
+
+> Item Silver Riffle telah berpindahtangan.
+
+> Sekarang adalah Malam Hari.
+>
+> Para werewolf, silakan berdiskusi dan menentukan satu nama yang ingin kalian bunuh.
+> Para villager yang memiliki "special ability" boleh bertindak sekarang.
+>
+>
+> Deadline pengiriman PM untuk sesi Malam Hari 1 adalah Selasa, 19 Oktober 2010, pukul 12.00.
+> Waktu bisa berubah sewaktu-waktu.
+>
+> **Catatan**: Hanya pemegang Silver Riffle yang berikutnya yang akan memperoleh PM dari GM - sebagai konfirmasi sah atas pesan pengoperan Silver Riffle yang dilakukan melalui post forum.
+
+### Malam Hari 1 {-}
+
+Setelah menyaksikan anezildjian ditembak oleh atasannya sendiri, kini dia tak lagi tahu siapa yang musti dia percaya.
+Dia benar-benar terlalu shock dan langsung mengurung diri di ruang kerja pribadinya ketika malam tiba.
+
+Dia bertanya-tanya, bagaimana mungkin mendadak atasan yang dia kenal sebagai orang yang begitu bijak dan berwibawa ternyata mampu bertindak setega itu.
+Namun mau bagaimana lagi? Dia tidak bisa menyangkal bahwa dia memang tidak terlalu mengenal atasannya karena dengan jabatan yang hanya mengurus bagian Cleaning Service, dia tidak terlalu sering berinteraksi dengan beliau.
+
+Selagi pria yang bernama Kipankubodo ini sedang mengalami pergolakan batin, ternyata ada dua sosok yang sedang mengintainya dari kejauhan di tengah koridor yang penerangannya redup.
+
+"Jadi.. dia target kita berikutnya?"
+
+"Yep. Kenapa?"
+
+"..bah, aku nggak yakin kalau aku lapar. Lagipula.."
+
+"Heh, jangan pikir aku juga ingin makan dia - apalagi setelah tahu kalau dia penakut kayak gitu.. Kamu pikir aku bakal tega mengoyak-ngoyak makhluk malang kayak dia, hah? Kita cuma perlu membunuhnya - kan tidak harus kita makan."
+
+"..hem, baiklah. Aku akan ambil panci saja - buat mementungnya tepat di kepala biar dia benjol-benjol. Aku ogah kalau harus menggigiti dia dan mencuil bagian tubuhnya satu persatu."
+
+"... sesukamu sajalah."
+
+>  Kipankubodo, sang Villager telah tewas!
+>
+> Silver Riffle mendadak terasa panas sehingga tidak memungkinkan lagi untuk dipegang oleh pemegang Silver Riffle sebelumnya.
+>
+> Sekarang adalah Siang Hari.
+>
+> Kalian semua akan berkumpul dan melakukan voting dan memilih satu orang yang paling kalian curigai sebagai manusia serigala.
+> Khusus bagi pemegang Silver Riffle sebelumnya, silakan mengoper item sebelum deadline tiba.
+>
+>
+> Deadline voting untuk sesi Siang Hari 2 adalah Rabu, 20 Oktober 2010, pukul 12.00.
+> Waktu bisa berubah sewaktu-waktu.
+>
+> *Deadline dimajukan menjadi pukul 09.00 (GMT+7)
+
+### Siang Hari 2 {-}
+
+*With cigarette, with an arrogant look, he asked it lazily..*
+*"So, say, who is someone deserved to die today?"*
+
+Dengan serempak, tiga orang menyahut dengan suara dingin, "Dengan segala hormat, kami kira orang itu Anda, Pak."
+
+Orang yang dituduh ini pun, yang dikenal dengan codename ninjaakatsuky, hanya mampu terbelalak kaget, "Apa dasar dari tuduhan konyolmu itu, hah? Beraninya kalian!"
+
+"Yah. Walaupun sejak awal Anda yang selalu duduk di kursi direktur itu, tidak ada yang bisa mengonfirmasikan bahwa Anda bukan werewolf yang telah membunuh bos kami yang asli - dan kemudian dengan lihainya menyamar sebagai bos kami," lukystar berkata dengan tenang dengan penuh kepastian, "Lets go seize this guy."
+
+"BAH!" ninjaakatsuky berusaha memberontak ketika ankasil dan devil joe berusaha menangkap dirinya untuk mencegahnya melarikan diri.
+
+"Aku masih berpikir kalau cewek cantik itu yang musti mati!" lelouch berteriak-teriak sendiri dengan panik dan bingung.
+
+"Diamlah, lelouch," lukystar berjalan ke arah ninjaakatsuky dan merampas pistol yang selama ini tersimpan dalam saku celananya, "Untuk anezildjian dan Kipankubodo, Pak."
+
+Terdengar letusan keras, dan ninjaakatsuky pun roboh - jatuh ke lantai.
+
+Setelah sejenak menunggu, para karyawan yang masih hidup kemudian menyadari bahwa sosok ninjaakatsuky tidak berubah banyak. Tetap buruk rupa seperti avatar pikachunya yang terdahulu - tapi sama sekali tidak tampak seperti werewolf.
+
+> ninjaakatsuky, Seer yang angkuh telah tewas!
+
+> Item Silver Riffle telah berpindahtangan.
+
+"..uh," lukystar terdiam, "Kurasa lebih baik kalau kita mengecek kamar.. beliau."
+
+"Benar. Ruang Direktur merupakan satu-satunya tempat yang memiliki akses ke seluruh rekaman kamera security yang dipasang di koridor kantor ini kan? Kalau orang ini memang bos kita, ada kemungkinan dia mengawasi kantor melalui kamera security semalam - dan dia tahu peran salah satu dari kita yang masih hidup. Ini bisa membantu kita."
+
+Dan pergilah mereka semua ke ruang direktur - dan setibanya mereka di sana, mereka mengecek semua rekaman kamera security semalam hanya untuk mendapati bahwa mereka tidak menemukan sesuatu yang berarti, kecuali satu kaset rekaman yang ada di dalam tempat sampah.
+
+Tampak tertulis jelas pada kemasan kaset tersebut kata **Villager** dengan spidol biru, namun sayang, pita kaset tersebut telah terulur keluar - seolah ditarik dengan paksa dan dirusak agar kaset rekaman itu tak lagi bisa diputar.
+
+> Sekarang adalah Malam Hari.
+>
+> Para werewolf, silakan berdiskusi dan menentukan satu nama yang ingin kalian bunuh.
+> Para villager yang bisa bergerak pada malam hari, boleh bertindak sekarang.
+>
+> Deadline pengiriman PM untuk sesi Malam Hari 2 adalah Kamis, 21 Oktober 2010, pukul 18.00 (GMT+7).
+> Waktu bisa berubah sewaktu-waktu.
+>
+> *Catatan: Hanya pemegang Silver Riffle yang berikutnya yang akan memperoleh PM dari GM - sebagai konfirmasi sah atas pesan pengoperan Silver Riffle yang dilakukan melalui post forum.
+
+### Malam Hari 2 {-}
+
+Sekali lagi malam datang.
+
+Semenjak lukystar menembak ninjaakatuky tadi pagi, entah kenapa suasana di gedung tidak setegang sebelumnya lagi. Sunyi senyap - tanpa ada pembicaraan yang sebenarnya perlu.
+
+Setidaknya itulah yang dirasakan devil joe - yang sedang asyik menghitung seluruh koleksi upilnya - maaf, maksudnya, koleksi uangnya. Dia sedang duduk di sebuah sofa hitam sambil terus menyeringai. Di depannya terdapat sebuah koper hitam yang terbuka - yang ternyata penuh berisi dengan berlembar-lembar uang seratus ribuan. Namun ketekunan dan ketelitiannya menghitung uang kali ini tidak akan membawanya kepada keberuntungan dan kekayaan.
+
+Sembari devil joe sibuk dengan pekerjaannya, dua werewolves datang dan langsung menerkamnya dengan mudah.
+
+Yeah. Kali ini mereka lapar.
+
+> devil joe, sang Villager telah tewas diburu werewolf!
+
+Namun sayang, kegaduhan tersebut didengar oleh lukystar yang kebetulan sedang berpatroli bersama Lelouch_Lamperouge.
+
+"Hah. Mungkinkah..?"
+
+"Cepat, lelouch!" lukystar berteriak dan langsung berlari menuju ke arah suara sambil menyiapkan pemicu riffle peraknya.
+
+Baru saja lelouch bergegas mendekat untuk membuka pintu ruang milik devil joe, pintu menjeblak terbuka - dan tampaklah satu sosok werewolf yang terlalu kaget untuk berkata-kata karena mendapati dirinya mendadak berada di situasi yang membingungkan seperti ini.
+
+"Astaga. K-kalian.. ..kaliankah Masonnya?!"
+
+lukystar tidak ambil pusing untuk menjawab pertanyaan dari werewolf. Dia langsung membidikkan rifflenya ke arah werewolf tsb sambil berseru, "Minggir, LELOUCH!!"
+
+Dan dalam gerakan cepat, lelouch menunduk untuk tiarap, dan terdengarlah suara letusan kencang yang tak lagi asing. Werewolf yang baru saja muncul dari pintu itu pun langsung ambruk tak berdaya.
+
+Setelah beberapa detik diam dalam keterpakuan, lelouch berjongkok dan memeriksa sosok werewolf yang baru saja ditembak lukystar.
+
+"..astaga, ini Mikazuki."
+
+> Mikazuki Gryphin, sang werewolf telah tewas tertembak!
+
+"Hm. Apa berarti ini sudah berakhir?" lukystar bertanya dengan pelan.
+
+lelouch mengerutkan keningnya dan berpikir sebentar, "Sekarang hanya tinggal kita berdua, luky. Atau bertiga, dengan ankasil... t-tunggu. Kamu yakin werewolfnya cuma satu..?"
+
+Baru saja lelouch menyelesaikan kalimatnya, tiba-tiba terdengar suara geraman keras dan langsung saja sebuah sosok gelap yang menerjangnya dari belakang.
+
+"LELOUCH!"
+
+lukystar bangkit dan menggunakan senjata terakhirnya, Silver Riffle - namun sedetik kemudian, barulah ia sadar bahwa dia tidak memiliki peluru satu selongsong pun.
+
+"LUKY!" lelouch menjerit sambil terus bergumul dengan werewolf yang terus mencoba untuk mencaplok kepalanya dengan buas. Lelouch berusaha menendang selangkangannya tapi selalu meleset. Hingga akhirnya dia berseru dengan putus asa, "Astaga, luky - HANTAM SAJA KEPALANYA DENGAN RIFFLEMU!!"
+
+Dengan raut wajah seakan baru saja ditampar, lukystar entah kenapa menyahut dengan nada yang riang , "Hei - benar juga!" dan sedetik kemudian, lukystar sudah asyik memukuli werewolf dengan riffle peraknya yang sudah kosong melompong.
+
+Werewolf tersebut pun akhirnya melepaskan cengkramannya dan mulai melolong kesakitan.
+
+> ankasil, sang werewolf telah dihajar hingga babak belur dan tewas!
+
+Tak perlu lebih dari satu menit bagi lelouch dan lukystar bahwa peristiwa kali ini telah benar-benar berakhir.
+Mereka berhasil bertahan - sekaligus menghabisi semua werewolf yang sempat menyusup dan membunuh rekan-rekan mereka yang lain.
+
+Mereka saling berpelukan dan menepuk bahu satu sama lain, "Kerja bagus, teman."
+Lagi-lagi lelouch tak langsung membalas, tapi malah berpikir sejenak.
+
+
+"Tapi ..kadang kemenangan bisa terasa seperti kekalahan, luky."
+
+"Apa maksudmu?" lukystar memandang lelouch dengan bingung.
+
+"Kini aku tahu betul pada perusahaan macam apa kita selama ini bekerja. Kamu sudah mengecek gudang di belakang belum? Yang kuncinya selalu disimpan ninjaakatsuky, dan kita dilarang untuk ke sana. Kau tahu apa isinya..?"
+
+lukystar hanya mengerutkan kening, "Apa?"
+
+lelouch menghela napas panjang, "Tidak. Kamu tidak akan ingin tahu."
+
+**Turnabout Werewolf has ended - Winner: Goodies**
+
+
+## Behind The Scene
+
+> Peran:
+>
+> Werewolf: Mikazuki Gryphin, ankasil
+>
+> Mason: lukystar, Lelouch_Lamperouge
+>
+> Villager: anezildjian, devil joe, Kipankubodo
+>
+> Seer: ninjaakatsuky
+
+### Cobaltblue {-}
+
+Akhirnya bisa komentar juga - tapi sebelum komentar tentang para player dan permainannya, terlebih dahulu pengen bilang kalau sebenernya game ini sejak awal sudah imbalance.
+
+Faktornya ada banyak. Pertama, kurangnya jumlah pemain - tidak sesuai dengan yang sudah direncanakan dalam tema awal. Kedua, Kipankubodo masuk sebagai player di saat terakhir, jadi rules dan mekanisme lain belum sempat dimatangkan lagi (sebelumnya sudah diset untuk 7 player tapi kemudian jadi 8 player), tapi sebetulnya ini tidak terlalu ngaruh juga sih. Yang paling besar efeknya itu poin ketiga, yaitu salah satu fungsi Silver Riffle yang bisa digunakan sebagai 'pelindung otomatis'. Ini murni kesalahan dari GMnya - jadi pihak werewolf mengalami situasi imbalance sejak awal, dan sebetulnya nggak terlalu heran kalau pihak villager yang menang.
+
+Malah kalau sampai werewolf yang menang, ini berarti villagernya yang mainnya kebangetan.
+
+Tapi sekarang mengenai player dan permainannya sendiri - secara singkat, mungkin gambar ini cukup mewakili..
+
+```{r echo=FALSE, out.width='50%',fig.align='center'}
+include_graphics('Gambar/01-polar_bear_facepalm.jpg')
+```
+
+Jujur aja, kalau dilihat dari sudut pandang penonton, koordinasinya, kerjasama, dan diskusi antara villager sangat kurang. Waktu sesi malam hari sebetulnya bisa digunakan untuk berdiskusi - nggak sekadar hanya menuduh satu sama lain, tapi kelihatannya malah nggak digunakan - atau mungkin player masih mengira kalau pada sesi malam hari mereka dilarang ngomong, padahal sebenarnya boleh saja.
+
+Kemudian dari pihak werewolf, entah kenapa targetnya agak kurang masuk akal. Pertama Kipankubodo, kemudian devil joe. Sementara itu di sesi voting siang, mereka mencoba membunuh ninjaakatsuky - tapi kelihatannya lebih karena sekadar ngikut lukystar.
+
+Dan ada post respon yang agak parah ketika menanggapi kematian Kipankubodo, si ankasil malah 'ketawa' dan ngomong: "Masa perlu 4 hari buat nyari werewolf?"
+
+Jadi, dari pengamatan ini:
+
+> cobaltblue wrote:
+>
+> Sebenernya udah ada ide nih buat TWG berikutnya - tapi mungkin tu TWG ditunda dulu, ntar buka yang versi Lite yang pesertanya cuma 5 orang per game.
+> Alasan akan dibeberkan lebih lanjut setelah TWG Turnabout Werewolf resmi selesai.
+
+..berhubung pemain masih bisa dibilang newbie banget, TWG yang akan dihost berikutnya bakal sekadar TWG versi Lite yang pemainnya hanya 5 orang - terdiri dari 1 werewolf dan 4 villager. Tiap sesi siang atau malam akan dibatasi 6 jam - jadi intinya ini main cepat, sekadar untuk lebih terbiasa dengan mekanisme game.
+
+
+
+

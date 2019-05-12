@@ -1,34 +1,42 @@
---- 
-title: "A Minimal Book Example"
-author: "Yihui Xie"
+---
+title: "Arsip The Werewolf Game Ninja Saga Forum SF Indonesia"
+author: "Tmofer"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
-bibliography: [book.bib, packages.bib]
-biblio-style: apalike
-link-citations: yes
-description: "This is a minimal example of using the bookdown package to write a book. The output format for this example is bookdown::gitbook."
+description: "Ini adalah Dokumentasi dari TWG di forum Ninja Saga. Ini adalah awal dari penyebaran TWG di KASKUS"
 ---
 
-# Prerequisites
-
-This is a _sample_ book written in **Markdown**. You can use anything that Pandoc's Markdown supports, e.g., a math equation $a^2 + b^2 = c^2$.
-
-The **bookdown** package can be installed from CRAN or Github:
-
-```{r eval=FALSE}
-install.packages("bookdown")
-# or the development version
-# devtools::install_github("rstudio/bookdown")
+```{r setup, include=FALSE}
+library(knitr)
+opts_chunk$set(echo = FALSE)
 ```
 
-Remember each Rmd file contains one and only one chapter, and a chapter is defined by the first-level heading `#`.
+# Kata Pengantar {-}
 
-To compile this example to PDF, you need XeLaTeX. You are recommended to install TinyTeX (which includes XeLaTeX): <https://yihui.name/tinytex/>.
+*Generations come and generations go, but the earth remains forever.*
 
-```{r include=FALSE}
-# automatically create a bib database for R packages
-knitr::write_bib(c(
-  .packages(), 'bookdown', 'knitr', 'rmarkdown'
-), 'packages.bib')
-```
+Itu adalah perasaan yang saya rasakan ketika mengingat masa-masa bermain *The Werewolf Game* (TWG) di forum Ninja Saga, maupun Forum KASKUS khusunya SF CYSTG.
+Masyarakat Indonesia sekarang sepertinya berpindah ke media sosial yang lebih mudah, lebih cepat, dan lebih praktis seperti facebook, twitter, youtube atau instagram.
+Tidak ada yang bisa saya lakukan, begitulah *perkembangan jaman*. Forum NSF maupun KASKUS juga punya andil dalam *keruntuhan* forum mereka sendiri.
+Pemeliharaan forum yang kurang maksimal, keterlambatan untuk berinovasi, bahkan keberpihakan telah membuat forum seperti NSF fan KASKUS menjadi sepi. Sepi sebab ditingal pengguna lama, dan sepi sebab tidak dilirik oleh calon pengguna baru. Forum biasa seperti NSF tidak akan bertahan lama, dan KASKUS sedang berupayah untuk kembali ke masa kejayaannya.
+
+Saya bermain TWG ditahun 2011, saat saya berumur 14 - 15 tahun.
+Kala itu saya masih dapat dibilang anak kecil, menggunakan sosial media facebook semata-mata ingin bermain sebuah permainan yang mirip dengan anime ninja populer,Ninja Saga.
+Beberapa bulan kemudian setelah saya mengikuti suatu *event*, saya ingin mencari tahu informasi lebih banyak mengenai *event* tersebut (seperti, misi rahasia, tips dan trik farming, *sharing Talent Point*, ataupun sekadar menambah teman).
+Saat itulah saya berkenalan dengan Forum Ninja Saga.
+Dan di forum itulah, saya pertama kali berkenalan dengan permainan *The Werewolf Game*(TWG).
+Saya kemudian terus bermain TWG walauupun tidak rutin sampai saya duduk di bangku kuliah.
+Bisa diibilang bahwa TWG merupakan bagian besar bagi saya ketika bertumbuh dewasa
+
+Saya sadar bahwa suatu saat, Forum NSF akan lenyap, entah ditinggalkan oleh pengguna Ninja Saga, ataupun alasan lainnya. Ketika hal itu terjadi, maka hilang juga kenangan saya bersama kawan-kawan NSF di forum tersebut.
+Hilang juga kenangan kami bermain TWG.
+
+Ada sebagian kecil dari lubuk hati saya tidak menginginkan hal tersebut.
+Saya ingin menyimpan kenangan itu, walaupun hanya sedikit.
+Hal inilah yang membuat saya ingin melakukan arsip terhadap TWG SF Indo yang berada disana. Jikalau saya tidak bisa mengarsipkan semuanya, setidaknya saya bisa mengumpulkan informasi katakteristik TWG tersebut, diantaranya
+
+1. Game Master/Game Moderator/Host dan Co-GM/Co-Host
+2. Tanggal rilis atau tanggal buka, yaitu tanggal thread dibuat.
+3. Tautan (ini opsional sebab bisa saja nanti tautannya tidak bekerja sebab server situsnya tidak berjalan lagi)
+
